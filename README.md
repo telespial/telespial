@@ -4,6 +4,8 @@ Embedded Intelligence · EdgeAI · Embedded Systems
 
 I build experimental embedded systems, small machine learning models, and structured hardware specifications for AI-assisted firmware development.
 
+Visit the [EdgeAI project hub](https://telespial.github.io/) for the connected project pages and published sitemap.
+
 ## Featured projects
 
 - [Baby Model Zoo](https://github.com/telespial/Baby-Model-Zoo) — small, specialized EdgeAI models, including the Penguin temperature anomaly detector.
